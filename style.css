@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+.bw-Viewer_content {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
